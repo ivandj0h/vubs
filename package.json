@@ -1,0 +1,20 @@
+{
+  "name": "vubs",
+  "version": "1.0.0",
+  "description": "`VUBS` is a Vanilla Upload Backend Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivandi1980/vubs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivandi1980/vubs/issues"
+  },
+  "homepage": "https://github.com/ivandi1980/vubs#readme"
+}
